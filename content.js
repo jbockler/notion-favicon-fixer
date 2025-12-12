@@ -1,4 +1,4 @@
-const FAVICON_URL = "https://www.notion.so/images/favicon.ico";
+const FAVICON_URL = "https://www.notion.so/front-static/favicon.ico";
 
 const getFaviconDomEl = () => document.querySelector("link[rel~='icon']");
 
